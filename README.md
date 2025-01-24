@@ -7,3 +7,6 @@ adjusting for any modifications that have been completed
 ## My Interests
 Making my Audi S5 and my RAM truck faster, collecting fountain pens, woodworking, and seeking out ai capabilites.
 ## Websites I Recommend
+[youtube](www.youtube.com) a plethora of how to videos
+[ross-tech](ross-tech.com) Audi OBDii
+[raceme](racemeofficial.com) RAM truck tuner
